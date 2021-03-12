@@ -6,4 +6,4 @@ not much to say, its a barcode Generator.
 
 * **pip install python-barcode**
 * **pip install pillow**
-* and run
+* **and run**
